@@ -2,6 +2,8 @@
 
 ## Prerequisite
 Make sure you have access to create roles and assign permissions.
+The service account will have following permissions:
+* Read/Write Storage
 
 ## Setup
 
